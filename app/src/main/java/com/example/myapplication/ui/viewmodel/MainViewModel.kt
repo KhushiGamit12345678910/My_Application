@@ -17,5 +17,4 @@ class MainViewModel(): ViewModel(){
             _data.value = result
         }
     }
-
 }
