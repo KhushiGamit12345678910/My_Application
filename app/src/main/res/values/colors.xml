@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">@color/colorPurple</color>
+    <color name="primarydark">#FF000000</color>
+    <color name="red">#F94232</color>
+    <color name="green">#1ac72f</color>
+    <color name="green_dark">#20AD6D</color>
+    <color name="colorAccent">#FF03DAC5</color>
+    <color name="blackOp10">#1A000000</color>
+    <color name="black_both_theme">#FF000000</color>
+    <color name="white_both_theme">#FFFFFFFF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="grayColorOp06">#0F5E5E5E</color>
+    <color name="textColorDarkGreyOp40">#66191217</color>
+    <color name="appColorLight">#F2E6ED</color>
+    <color name="hintTextColor">#A45785</color>
+    <color name="grayTextColor">#1A5E5E5E</color>
+    <color name="grayTextColorShade">#9E9B9D</color>
+    <color name="grayDashLineColor">#9B9B9B</color>
+    <color name="textColorDarkGreyOp60">#99191217</color>
+    <color name="textColorBlack">#191217</color>
+    <color name="textColorBlackOp15">#26191217</color>
+    <color name="textColorBlackOp80">#CC191217</color>
+    <color name="hintColorSearchField">#66191217</color>
+    <color name="loader_transparent_background">#40000000</color>
+    <color name="colorPurple">#A45785</color>
+    <color name="colorLightPurple">#EEE7EB</color>
+    <color name="colorNotificationOn">#34C759</color>
+    <color name="colorNotificationOff">#29787880</color>
+    <color name="colorOrangeOp15">#26BD7811</color>
+    <color name="colorGreenOp15">#26076F3F</color>
+    <color name="colorRedOp15">#26A91B1B</color>
+    <color name="colorGreen">#076F3F</color>
+    <color name="colorRed">#A91B1B</color>
+    <color name="colorOrange">#BD7811</color>
+    <color name="colorLightPink">#E8ACAC</color>
+    <color name="colorDarkPurple">#1A1217</color>
+    <color name="colorDarkBrown">#85586C</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorLightPurpleOne">#EADEE5</color>
+    <color name="colorPurpleOp10">#1AA45785</color>
+    <color name="colorPurpleOp15">#26A45785</color>
+    <color name="colorPurpleOp20">#33A45785</color>
+    <color name="colorPurpleOp30">#4DA45785</color>
+    <color name="colorPurpleOp40">#66A45785</color>
+    <color name="colorPurpleOp80">#CCA45785</color>
+    <color name="darkGrayColor">#4f4f4f</color>
+    <color name="darkGrayColorOp40">#664F4F4F</color>
+    <color name="textColorBlack75OP">#BF191217</color>
+
+    <color name="inactive_text_color">#BEBEBE</color>
+    <color name="transparent">#00000000</color>
+    <color name="chart_bar_gradient_top_color">#A3CAE4</color>
+    <color name="chart_bar_gradient_bottom_color">#036EB6</color>
+    <color name="colorServiceItemBg">#0F5E5E5E</color>
+    <color name="colorServiceItemUnselectedBorder">#33000000</color>
+    <color name="unselectedTimeColor">#99231F20</color>
+    <color name="grayExtraLightPro">#5C3C3C43</color>
+    <color name="providerItemColor">#F6F6F6</color>
+    <color name="popupMenuColor">#F6F6F6</color>
+    <color name="backgroundColorGrey">#F6F6F6</color>
+    <!--    <color name="blurColor">#B2151214</color>-->
+    <!--    <color name="blurColor">#4D151214</color>-->
+    <color name="blurColor">#99191819</color>
+    <color name="lightPurple">#F6EFF3</color>
+    <color name="textColorOp10">#1A191217</color>
+
+    <!--Shimmer effect color-->
+    <color name="shimmerColorPrimary">#C0BCC9</color>
+    <color name="shimmerColorSecondary">#E1E0E2</color>
+
+    <!--Custom calender colors-->
+    <color name="brown_700">#5D4037</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="orange_800">#EF6C00</color>
+    <color name="green_700">#388E3C</color>
+    <color name="teal_700">#00796B</color>
+    <color name="pink_700">#C2185B</color>
+    <color name="red_800">#c62828</color>
+    <color name="blue_800">#1565C0</color>
+    <color name="cyan_700">#0097A7</color>
+    <color name="color_green_earned_point">#20AD6D</color>
+    <color name="color_calender_selection">#42191217
+    </color> <!--calendar selection round color - 191217 26%-->
+    <color name="color_calender_back">#0F5E5E5E</color> <!--calendar background color - 5E5E5E 6%-->
+    <color name="color_day">#4D3C3C43</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color> <!--day color - 3C3C43 30%-->
+    <color name="textColorBlackOp40">#40191217</color>
+    <color name="textColorBlackOp20">#20191217</color>
+
+</resources>
